@@ -57,7 +57,7 @@ Download the .exe packed in a .rar file for a quick start on Windows.
 
 ⚠️ IMPORTANT:
 No matter which version you use, ensure that categories.txt, filters.txt, and the backup folder are in the same directory as SharkGenerate.
-Example structure:
+Example structure & contents of the rar file:
 
 ![image](https://github.com/user-attachments/assets/da3f7f99-c735-454a-94df-0e6613391df5)
 
